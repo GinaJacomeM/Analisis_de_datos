@@ -8,9 +8,8 @@ Aplicar modelos de aprendizaje supervisado sobre distintos conjuntos de datos, e
 
 ## 📁 Estructura
 
-- `data/`: Archivos CSV utilizados en los análisis.
+- `datasets/`: Archivos CSV utilizados en los análisis.
 - `notebooks/`: Notebooks de Jupyter con el desarrollo de cada modelo.
-- `informes/`: Informes profesionales generados a partir del análisis de los notebooks.
 
 ## 🔍 Modelos desarrollados
 
